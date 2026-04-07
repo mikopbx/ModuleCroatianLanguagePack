@@ -3,6 +3,6 @@
 declare(strict_types=1);
 
 return [
-    'BreadcrumbModuleCroatianLanguagePack' => 'Croatian Language Pack',
+    'BreadcrumbModuleCroatianLanguagePack' => 'Language Pack - Croatian',
     'SubHeaderModuleCroatianLanguagePack' => 'Complete Croatian language support for MikoPBX',
 ];
