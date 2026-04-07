@@ -1,0 +1,561 @@
+; Core Asterisk Sounds in Croatian (Hrvatski)
+; Generated using Piper TTS (sr_RS-serbski_institut-medium (Serbian voice))
+; Sample rate: 22050 Hz, mono, 16-bit PCM WAV
+; Total entries: 556
+;
+activated: Aktivirano.
+added: Dodano.
+agent-alreadyon: Taj operater je već prijavljen. Unesite broj operatera i pritisnite ljestve.
+agent-incorrect: Prijava neuspješna. Unesite broj operatera i pritisnite ljestve.
+agent-loggedoff: Operater odjavljen.
+agent-loginok: Operater prijavljen.
+agent-newlocation: Unesite novi lokalni broj i pritisnite ljestve.
+agent-pass: Unesite lozinku i pritisnite ljestve.
+agent-user: Prijava operatera. Unesite broj operatera i pritisnite ljestve.
+all-circuits-busy-now: Trenutno su sve linije zauzete.
+astcc-followed-by-the-pound-key: Zatim pritisnite ljestve.
+at-tone-time-exactly: Na zvuk tona, točno vrijeme bit će...
+auth-incorrect: Lozinka je netočna. Unesite lozinku i pritisnite ljestve.
+auth-thankyou: Hvala Vam.
+call-forwarding: Preusmjeravanje poziva.
+call-fwd-no-ans: Preusmjeravanje poziva ako nema odgovora.
+call-fwd-on-busy: Preusmjeravanje poziva ako je zauzeto.
+call-fwd-unconditional: Bezuvjetno preusmjeravanje poziva.
+call-waiting: Poziv na čekanju.
+calling: Pozivanje.
+cancelled: Otkazano.
+cannot-complete-as-dialed: Poziv se ne može uspostaviti prema biranom broju.
+check-number-dial-again: Molimo provjerite broj i pokušajte ponovno.
+conf-adminmenu: Pritisnite 1 za isključivanje ili uključivanje mikrofona, 2 za zaključavanje ili otključavanje konferencije, 3 za izbacivanje zadnjeg korisnika, 4 ili 6 za smanjivanje ili povećavanje glasnoće konferencije, 7 ili 9 za smanjivanje ili povećavanje glasnoće Vašeg glasa, ili 8 za izlaz.
+conf-adminmenu-162: Pritisnite 1 za isključivanje ili uključivanje mikrofona, 2 za zaključavanje ili otključavanje konferencije, 3 za izbacivanje zadnjeg korisnika, 4 ili 6 za smanjivanje ili povećavanje glasnoće konferencije, 5 za proširenje konferencije, 7 ili 9 za smanjivanje ili povećavanje glasnoće Vašeg glasa, ili 8 za izlaz.
+conf-adminmenu-18: Pritisnite 1 za isključivanje ili uključivanje mikrofona, 2 za zaključavanje ili otključavanje konferencije, 3 za izbacivanje zadnjeg korisnika, 4 ili 6 za smanjivanje ili povećavanje glasnoće konferencije, 5 za proširenje konferencije, 7 ili 9 za smanjivanje ili povećavanje glasnoće Vašeg glasa, ili 8 za dodatne opcije.
+conf-adminmenu-menu8: Pritisnite 1 za popis trenutnih sudionika konferencije, 2 za izbacivanje svih ne-administratorskih korisnika, 3 za isključivanje ili uključivanje mikrofona svim ne-administratorskim korisnicima, 4 za snimanje konferencije, ili 8 za izlaz iz ovog izbornika i povratak u konferenciju.
+conf-enteringno: Ulazite u konferenciju broj
+conf-errormenu: Nevažeći izbor.
+conf-extended: Konferencija je produžena.
+conf-full: Ta konferencija je popunjena.
+conf-getchannel: Unesite broj kanala i pritisnite ljestve.
+conf-getconfno: Unesite broj konferencije i pritisnite ljestve.
+conf-getpin: Unesite PIN konferencije.
+conf-hasjoin: pridružio se konferenciji.
+conf-hasleft: napustio je konferenciju.
+conf-invalid: Nevažeći broj konferencije. Molimo pokušajte ponovno.
+conf-invalidpin: PIN je netočan za ovu konferenciju.
+conf-kicked: Uklonjeni ste iz ove konferencije.
+conf-leaderhasleft: Voditelj je napustio konferenciju.
+conf-locked: Ova konferencija je zaključana!
+conf-lockednow: Konferencija je sada zaključana.
+conf-muted: Vaš mikrofon je sada isključen.
+conf-noempty: Trenutno nema praznih konferencija.
+conf-nonextended: Konferencija se ne može produžiti.
+conf-now-muted: Zvuk u konferenciji je sada isključen.
+conf-now-recording: Konferencija se sada snima.
+conf-now-unmuted: Zvuk u konferenciji je sada uključen.
+conf-onlyone: U konferenciji se trenutno nalazi jedan drugi sudionik.
+conf-onlyperson: Trenutno ste jedina osoba u ovoj konferenciji.
+conf-otherinparty: drugih sudionika u konferenciji.
+conf-placeintoconf: Sada ćete biti uključeni u konferenciju.
+conf-roll-callcomplete: Reprodukcija popisa sudionika je završena.
+conf-thereare: Trenutno se u konferenciji nalazi
+conf-unlockednow: Konferencija je sada otključana.
+conf-unmuted: Vaš mikrofon je sada uključen.
+conf-usermenu: Pritisnite 1 za uključivanje ili isključivanje mikrofona, 4 ili 6 za smanjivanje ili povećavanje glasnoće konferencije, 7 ili 9 za smanjivanje ili povećavanje glasnoće Vašeg glasa, ili 8 za izlazak iz konferencije.
+conf-usermenu-162: Pritisnite 1 za uključivanje ili isključivanje mikrofona, 2 za zaključavanje ili otključavanje konferencije, 3 za uklanjanje posljednjeg sudionika, 4 ili 6 za smanjivanje ili povećavanje glasnoće konferencije, 5 za produženje konferencije, 7 ili 9 za smanjivanje ili povećavanje glasnoće Vašeg glasa, ili 8 za izlazak iz konferencije.
+conf-userswilljoin: korisnika će se pridružiti konferenciji.
+conf-userwilljoin: korisnik će se pridružiti konferenciji.
+conf-waitforleader: Konferencija će započeti kada se voditelj pridruži.
+confbridge-begin-glorious-a: konferencija će započeti kada se pridruži naš slavni voditelj
+confbridge-begin-glorious-b: konferencija će započeti kada se pridruži naš slavni voditelj
+confbridge-begin-glorious-c: konferencija će započeti kada se pridruži naš slavni voditelj
+confbridge-begin-leader: konferencija će započeti kada se voditelj pridruži.
+confbridge-binaural-off: 3D zvuk je isključen.
+confbridge-binaural-on: 3D zvuk je uključen.
+confbridge-conf-begin: konferencija sada počinje.
+confbridge-conf-end: konferencija je završena.
+confbridge-dec-list-vol-in: Za smanjivanje glasnoće zvuka od ostalih sudionika...
+confbridge-dec-list-vol-out: ...za smanjivanje glasnoće zvuka od ostalih sudionika.
+confbridge-dec-talk-vol-in: Za smanjivanje glasnoće Vašeg govora prema ostalim sudionicima...
+confbridge-dec-talk-vol-out: ...za smanjivanje glasnoće Vašeg govora prema ostalim sudionicima.
+confbridge-has-joined: ...pridružio se konferenciji.
+confbridge-has-left: ...napustio je konferenciju.
+confbridge-inc-list-vol-in: Za povećavanje glasnoće zvuka od ostalih sudionika...
+confbridge-inc-list-vol-out: ...za povećavanje glasnoće zvuka od ostalih sudionika.
+confbridge-inc-talk-vol-in: Za povećavanje glasnoće Vašeg govora prema ostalim sudionicima...
+confbridge-inc-talk-vol-out: ...za povećavanje glasnoće Vašeg govora prema ostalim sudionicima.
+confbridge-invalid: Unijeli ste nevažeću opciju.
+confbridge-leave-in: Za izlazak iz konferencije...
+confbridge-leave-out: ...za izlazak iz konferencije.
+confbridge-lock-extended: ...za zaključavanje ili otključavanje konferencije. Kada je konferencija zaključana, pridružiti se mogu samo administratori.
+confbridge-lock-in: Za zaključavanje ili otključavanje konferencije...
+confbridge-lock-no-join: Konferencija je trenutno zaključana i nije moguće pridružiti se.
+confbridge-lock-out: ...za zaključavanje ili otključavanje konferencije.
+confbridge-locked: Konferencija je sada zaključana.
+confbridge-menu-exit-in: Za izlazak iz izbornika...
+confbridge-menu-exit-out: ...za izlazak iz izbornika.
+confbridge-mute-extended: ...za uključivanje ili isključivanje mikrofona. Kada je Vaš mikrofon isključen, ne možete slati zvuk ostalim sudionicima, ali i dalje čujete ostale sudionike.
+confbridge-mute-in: Za uključivanje ili isključivanje mikrofona...
+confbridge-mute-out: ...za uključivanje ili isključivanje mikrofona.
+confbridge-muted: Vaš mikrofon je sada isključen.
+confbridge-only-one: U konferenciji se trenutno nalazi jedan drugi sudionik.
+confbridge-only-participant: Trenutno ste jedini sudionik u konferenciji.
+confbridge-participants: ...sudionika u konferenciji.
+confbridge-pin: Molimo unesite Vaš osobni identifikacijski broj i pritisnite ljestve.
+confbridge-pin-bad: Unijeli ste previše nevažećih PIN-ova.
+confbridge-remove-last-in: Za uklanjanje sudionika koji se posljednji pridružio konferenciji...
+confbridge-remove-last-out: ...za uklanjanje sudionika koji se posljednji pridružio konferenciji.
+confbridge-removed: Uklonjeni ste iz konferencije.
+confbridge-rest-list-vol-in: Za vraćanje glasnoće konferencije na zadanu razinu...
+confbridge-rest-list-vol-out: ...za vraćanje glasnoće konferencije na zadanu razinu.
+confbridge-rest-talk-vol-in: Za vraćanje glasnoće Vašeg govora na zadanu razinu...
+confbridge-rest-talk-vol-out: ...za vraćanje glasnoće Vašeg govora na zadanu razinu.
+confbridge-there-are: Trenutno se nalazi...
+confbridge-unlocked: Konferencija je sada otključana.
+confbridge-unmuted: Vaš mikrofon je sada uključen.
+de-activated: Deaktivirano.
+dictate/both_help: Pritisnite zvjezdicu za uključivanje pauze. Pritisnite tipku ljestve za unos novog naziva datoteke diktata.
+dictate/enter_filename: Unesite numerički naziv datoteke diktata, a zatim pritisnite tipku ljestve, ili samo pritisnite tipku ljestve za izlaz.
+dictate/forhelp: Za pomoć pritisnite nulu.
+dictate/pause: Pauza.
+dictate/paused: Pauzirano.
+dictate/play_help: Pritisnite 1 za prebacivanje u način snimanja. Pritisnite 2 za brzu reprodukciju. Pritisnite 7 za pomicanje unatrag. Pritisnite 8 za pomicanje unaprijed.
+dictate/playback: Reprodukcija.
+dictate/playback_mode: Način reprodukcije.
+dictate/record: Snimanje.
+dictate/record_help: Pritisnite 1 za prebacivanje u način reprodukcije. Pritisnite 8 za skraćivanje datoteke i početak ispočetka.
+dictate/record_mode: Način snimanja.
+dictate/truncating_audio: Skraćivanje audio zapisa.
+digits/0: nula
+digits/1: jedan
+digits/10: deset
+digits/100: sto
+digits/11: jedanaest
+digits/12: dvanaest
+digits/13: trinaest
+digits/14: četrnaest
+digits/15: petnaest
+digits/16: šesnaest
+digits/17: sedamnaest
+digits/18: osamnaest
+digits/19: devetnaest
+digits/1n: jedno
+digits/2: dva
+digits/20: dvadeset
+digits/2f: dvije
+digits/2n: dva
+digits/3: tri
+digits/30: trideset
+digits/4: četiri
+digits/40: četrdeset
+digits/5: pet
+digits/50: pedeset
+digits/6: šest
+digits/60: šezdeset
+digits/7: sedam
+digits/70: sedamdeset
+digits/8: osam
+digits/80: osamdeset
+digits/9: devet
+digits/90: devedeset
+digits/a-m: prijepodne
+digits/at: u
+digits/billion: milijarda
+digits/day-0: nedjelja
+digits/day-1: ponedjeljak
+digits/day-2: utorak
+digits/day-3: srijeda
+digits/day-4: četvrtak
+digits/day-5: petak
+digits/day-6: subota
+digits/dollars: dolara
+digits/h-1: prvi
+digits/h-10: deseti
+digits/h-11: jedanaesti
+digits/h-12: dvanaesti
+digits/h-13: trinaesti
+digits/h-14: četrnaesti
+digits/h-15: petnaesti
+digits/h-16: šesnaesti
+digits/h-17: sedamnaesti
+digits/h-18: osamnaesti
+digits/h-19: devetnaesti
+digits/h-2: drugi
+digits/h-20: dvadeseti
+digits/h-3: treći
+digits/h-30: trideseti
+digits/h-4: četvrti
+digits/h-40: četrdeseti
+digits/h-5: peti
+digits/h-50: pedeseti
+digits/h-6: šesti
+digits/h-60: šezdeseti
+digits/h-7: sedmi
+digits/h-70: sedamdeseti
+digits/h-8: osmi
+digits/h-80: osamdeseti
+digits/h-9: deveti
+digits/h-90: devedeseti
+digits/h-billion: milijarditi
+digits/h-hundred: stoti
+digits/h-million: milijunti
+digits/h-thousand: tisućiti
+digits/hundred: sto
+digits/million: milijun
+digits/minus: minus
+digits/mon-0: siječnja
+digits/mon-1: veljače
+digits/mon-10: studenoga
+digits/mon-11: prosinca
+digits/mon-2: ožujka
+digits/mon-3: travnja
+digits/mon-4: svibnja
+digits/mon-5: lipnja
+digits/mon-6: srpnja
+digits/mon-7: kolovoza
+digits/mon-8: rujna
+digits/mon-9: listopada
+digits/oclock: sati
+digits/oh: oh
+digits/p-m: poslijepodne
+digits/pound: ljestve
+digits/star: zvjezdica
+digits/thousand: tisuća
+digits/today: danas
+digits/tomorrow: sutra
+digits/yesterday: jučer
+dir-first: slova imena Vašeg sugovornika.
+dir-firstlast: ... slova imena ili prezimena Vašeg sugovornika.
+dir-instr: Ako je to osoba koju tražite, pritisnite 1. U suprotnom, pritisnite zvjezdicu.
+dir-intro: Dobrodošli u imenik. Pomoću tipkovnice unesite prva tri slova prezimena Vašeg sugovornika. Koristite tipku 7 za Q i tipku 9 za Z.
+dir-intro-fn: Dobrodošli u imenik. Pomoću tipkovnice unesite prva tri slova imena Vašeg sugovornika. Koristite tipku 7 za Q i tipku 9 za Z.
+dir-last: ... slova prezimena Vašeg sugovornika.
+dir-multi1: Pritisnite ...
+dir-multi2: ... za ...
+dir-multi3: ... lokalni broj ...
+dir-multi9: Pritisnite 9 za više unosa.
+dir-nomatch: Nijedan unos u imeniku ne odgovara Vašem upitu.
+dir-nomore: Nema više odgovarajućih unosa u imeniku.
+dir-pls-enter: Molimo unesite prva...
+dir-usingkeypad: ... pomoću tipkovnice. Koristite tipku 7 za Q i tipku 9 za Z.
+dir-welcome: Dobrodošli u imenik.
+disabled: Onemogućeno.
+do-not-disturb: Ne uznemiruj.
+enabled: Omogućeno.
+enter-num-blacklist: Unesite broj koji želite dodati na crnu listu.
+entr-num-rmv-blklist: Unesite broj koji želite ukloniti s crne liste.
+extension: Lokalni broj.
+feature-not-avail-line: Ta funkcija nije dostupna na ovoj liniji.
+followme/call-from: Dolazni poziv od
+followme/no-recording: Imate dolazni poziv.
+followme/options: Pritisnite 1 za prihvaćanje poziva ili 2 za odbijanje.
+followme/pls-hold-while-try: Molimo pričekajte dok pokušavamo locirati osobu koju pozivate.
+followme/sorry: Žao nam je, ali nismo uspjeli pronaći osobu koju zovete.
+followme/status: Osoba koju pozivate nije za svojim stolom; pokušat ćemo je locirati za Vas.
+for: Za.
+from-unknown-caller: S nepoznatog broja.
+goodbye: Doviđenja!
+hello: Zdravstvujte.
+hello-world: Pozdrav, svijete.
+hours: sati
+if-correct-press: Ako je ovo ispravno, pritisnite...
+im-sorry: Žao nam je.
+info-about-last-call: Informacije o Vašem zadnjem pozivu.
+invalid: Žao nam je, to nije valjani lokalni broj. Molimo pokušajte ponovno.
+is: Je.
+is-in-use: Zauzeto je.
+is-set-to: Postavljeno je na.
+letters/a: a
+letters/ascii123: lijeva vitičasta zagrada
+letters/ascii124: okomita crta
+letters/ascii125: desna vitičasta zagrada
+letters/ascii126: tilda
+letters/ascii34: navodnik
+letters/ascii36: dolar
+letters/ascii37: postotak
+letters/ascii38: ampersand
+letters/ascii39: apostrof
+letters/ascii40: lijeva zagrada
+letters/ascii41: desna zagrada
+letters/ascii42: zvjezdica
+letters/ascii44: zarez
+letters/ascii58: dvotočka
+letters/ascii59: točka sa zarezom
+letters/ascii60: manje od
+letters/ascii62: veće od
+letters/ascii63: upitnik
+letters/ascii91: lijeva uglata zagrada
+letters/ascii92: obrnuta kosa crta
+letters/ascii93: desna uglata zagrada
+letters/ascii94: cirkumfleks
+letters/ascii95: podvlaka
+letters/ascii96: obrnuti apostrof
+letters/asterisk: zvjezdica
+letters/at: at [@]
+letters/b: be
+letters/c: ce
+letters/d: de
+letters/dash: crtica [-]
+letters/dollar: dolar [$]
+letters/dot: točka [.]
+letters/e: e
+letters/equals: jednako [=]
+letters/exclaimation-point: uskličnik [!]
+letters/f: ef
+letters/g: ge
+letters/h: ha
+letters/i: i
+letters/j: je
+letters/k: ka
+letters/l: el
+letters/m: em
+letters/n: en
+letters/o: o
+letters/p: pe
+letters/plus: plus [+]
+letters/q: ku
+letters/r: er
+letters/s: es
+letters/slash: kosa crta [/]
+letters/space: razmak [ ]
+letters/t: te
+letters/u: u
+letters/v: ve
+letters/w: duplo ve
+letters/x: iks
+letters/y: ipsilon
+letters/z: ze
+letters/zed: zed
+location: Lokacija.
+lowercase: mala slova
+minute: minuta
+minutes: minuta
+num-was-successfully: Broj je uspješno...
+number: Broj.
+number-not-answering: Broj ne odgovara.
+one-moment-please: Trenutak, molimo.
+pbx-invalid: Žao nam je, taj lokalni broj ne postoji. Molimo pokušajte ponovno.
+pbx-invalidpark: Žao nam je, na tom lokalnom broju nema parkiranog poziva. Molimo pokušajte ponovno.
+pbx-parkingfailed: Parkiranje poziva nije uspjelo.
+pbx-transfer: Prijenos.
+phone: telefon
+phonetic/9_p: niner
+phonetic/a_p: alpha
+phonetic/b_p: bravo
+phonetic/c_p: charlie
+phonetic/d_p: delta
+phonetic/e_p: echo
+phonetic/f_p: foxtrot
+phonetic/g_p: golf
+phonetic/h_p: hotel
+phonetic/i_p: india
+phonetic/j_p: juliet
+phonetic/k_p: kilo
+phonetic/l_p: lima
+phonetic/m_p: mike
+phonetic/n_p: november
+phonetic/o_p: oscar
+phonetic/p_p: papa
+phonetic/q_p: quebec
+phonetic/r_p: romeo
+phonetic/s_p: sierra
+phonetic/t_p: tango
+phonetic/u_p: uniform
+phonetic/v_p: victor
+phonetic/w_p: whiskey
+phonetic/x_p: xray
+phonetic/y_p: yankee
+phonetic/z_p: zulu
+please-try-again: Molimo pokušajte ponovno.
+please-try-call-later: Molimo pokušajte nazvati kasnije.
+pls-hold-while-try: Molimo pričekajte dok Vas pokušavamo spojiti.
+pls-try-call-later: Molimo pokušajte nazvati kasnije.
+pm-invalid-option: Ta opcija nije valjana. Molimo pokušajte ponovo.
+priv-callee-options: Pritisnite 1 ako želite da Vas ovaj pozivatelj sada i ubuduće može izravno dobiti. Pritisnite 2 ako želite preusmjeriti ovog pozivatelja na govornu poštu sada i zauvijek. Pritisnite 3 za preusmjeravanje ovog pozivatelja u kružni izbornik sada i zauvijek. Pritisnite 4 za preusmjeravanje ovog pozivatelja u izbornik pristojnog odbijanja sada i zauvijek. Pritisnite 5 kako biste ovom pozivatelju ubuduće omogućili izravan pristup, ali ovaj put ga preusmjerite na govornu poštu.
+priv-callpending: Na liniji čeka pozivatelj koji se predstavio kao:
+priv-introsaved: Hvala Vam. Molimo pričekajte dok pokušavamo uspostaviti vezu s Vašim sugovornikom!
+priv-recordintro: Nakon zvučnog signala, molimo izgovorite svoje ime.
+privacy-incorrect: Žao nam je, taj broj nije valjan.
+privacy-prompt: Molimo unesite svoj telefonski broj, počevši s pozivnim brojem.
+privacy-thankyou: Hvala Vam.
+privacy-to-blacklist-last-caller: Zadnji pozivatelj bio je...
+privacy-unident: Osoba koju pokušavate dobiti ne prihvaća pozive s neidentificiranih brojeva.
+queue-callswaiting: Molimo pričekajte odgovor operatera.
+queue-holdtime: Procijenjeno vrijeme čekanja trenutno iznosi
+queue-less-than: manje od
+queue-minute: minuta
+queue-minutes: minuta
+queue-minutex1: minutu
+queue-minutex2: minute
+queue-periodic-announce: Svi naši operateri su trenutno zauzeti. Molimo ostanite na liniji i Vaš poziv će biti odgovoren od strane prvog dostupnog operatera.
+queue-quantity1: Trenutno ima više od...
+queue-quantity2: ...pozivatelja koji čekaju na odgovor operatera.
+queue-reporthold: Vrijeme čekanja
+queue-seconds: sekundi
+queue-thankyou: Hvala Vam na strpljenju.
+queue-thereare: Vaša pozicija u redu čekanja je
+queue-youarenext: Vaš poziv je prvi u redu i bit će odgovoren od strane prvog dostupnog operatera.
+removed: Uklonjeno.
+screen-callee-options: Na raspolaganju su Vam sljedeće opcije: Pritisnite 1 za trenutačno spajanje s dolaznim pozivom. Pritisnite 2 za preusmjeravanje pozivatelja na govornu poštu. Pritisnite 3 za preusmjeravanje pozivatelja u kružni izbornik. Pritisnite 4 za preusmjeravanje pozivatelja u izbornik pristojnog odbijanja.
+second: sekunda
+seconds: sekundi
+simul-call-limit-reached: Dosegnuto je ograničenje istovremenih poziva.
+something-terribly-wrong: Nešto je jako krivo!
+sorry: Žao nam je.
+sorry-youre-having-problems: Žao nam je što imate poteškoća.
+speed-dial: Brzo biranje.
+speed-dial-empty: Odabrani unos brzog biranja je prazan.
+spy-agent: Agent
+spy-console: Console
+spy-dahdi: DAHDI
+spy-h323: H.323
+spy-iax: IAX
+spy-iax2: IAX
+spy-jingle: Jingle
+spy-local: Local
+spy-mgcp: MGCP
+spy-misdn: M I S D N
+spy-mobile: Bluetooth Mobile
+spy-nbs: N B S
+spy-sip: SIP
+spy-skinny: Skinny
+spy-unistim: Unistim
+spy-usbradio: USB Radio
+spy-zap: Zap
+ss-noservice: Broj koji ste birali nije u upotrebi. Molimo provjerite broj i pokušajte ponovno.
+telephone-number: Telefonski broj.
+time: Vrijeme.
+to-call-this-number: Za pozivanje ovog broja.
+to-extension: Na lokalni broj.
+to-listen-to-it: Za preslušavanje.
+to-rerecord-it: Za ponovno snimanje.
+transfer: Molimo pričekajte dok pokušavamo spojiti lokalni broj.
+tt-allbusy: Svi operateri su trenutno zauzeti. Molimo ostanite na liniji i Vaš poziv će biti odgovoren redom kojim je zaprimljen.
+tt-monkeysintro: Odnijeli su ih majmuni.
+tt-somethingwrong: Nešto je jako krivo.
+tt-weasels: Lasice su pojele naš telefonski sustav.
+unidentified-no-callback: Neidentificirano ili skriveno i stoga nije moguće uzvratiti poziv.
+uppercase: velika slova
+vm-Cust1: mapa pet
+vm-Cust2: mapa šest
+vm-Cust3: mapa sedam
+vm-Cust4: mapa osam
+vm-Cust5: mapa devet
+vm-Family: obiteljske
+vm-Friends: prijateljske
+vm-INBOX: nove
+vm-Old: stare
+vm-Urgent: hitne
+vm-Work: poslovne
+vm-advopts: Pritisnite 3 za napredne opcije.
+vm-and: i
+vm-calldiffnum: Pritisnite 2 za unos drugog broja.
+vm-changeto: Promijeniti u koju mapu?
+vm-delete: Pritisnite 7 za brisanje ove poruke.
+vm-deleted: Poruka obrisana.
+vm-dialout: Molimo pričekajte dok uspostavljamo vezu.
+vm-duration: Trajanje ove poruke je...
+vm-enter-num-to-call: Molimo unesite broj koji želite nazvati.
+vm-extension: lokalni broj
+vm-first: prva
+vm-for: za
+vm-forward: Pritisnite 1 za unos lokalnog broja, pritisnite 2 za korištenje imenika.
+vm-forward-multiple: Pritisnite 1 za slanje ove poruke ili 2 za dodavanje još jednog primatelja.
+vm-forwardoptions: Pritisnite 1 za dodavanje komentara i prosljeđivanje ili 2 za prosljeđivanje poruke bez komentara.
+vm-from: od
+vm-from-extension: poruka od lokalnog broja
+vm-from-phonenumber: poruka s telefonskog broja
+vm-goodbye: Doviđenja.
+vm-helpexit: Pritisnite zvjezdicu za pomoć ili tipku ljestve za izlaz.
+vm-incorrect: Prijava neispravna.
+vm-incorrect-mailbox: Prijava neispravna. Poštanski sandučić?
+vm-instructions: Za pregled poruka pritisnite 1. Možete izaći iz govorne pošte u bilo kojem trenutku pritiskom na tipku ljestve.
+vm-intro: Ostavite poruku nakon signala. Kada završite spustite slušalicu ili pritisnite ljestve.
+vm-invalid-password: Ta lozinka ne zadovoljava minimalne zahtjeve za ovaj sandučić. Molimo pokušajte ponovo.
+vm-invalidpassword: To nije valjana lozinka. Molimo pokušajte ponovo.
+vm-isonphone: je na telefonu
+vm-isunavail: je nedostupan
+vm-last: zadnja
+vm-leavemsg: Pritisnite 5 za ostavljanje poruke.
+vm-login: Govorna pošta. Poštanski sandučić?
+vm-mailboxfull: Žao nam je, ali sandučić korisnika ne može primiti više poruka.
+vm-marked-nonurgent: Oznaka hitnosti uklonjena.
+vm-marked-urgent: Poruka označena kao hitna.
+vm-message: poruka
+vm-messages: poruka
+vm-messagex1: poruku
+vm-messagex2: poruke
+vm-minutes: minuta
+vm-mismatch: Unesene lozinke se ne podudaraju. Molimo pokušajte ponovo.
+vm-msgforwarded: Vaša poruka je uspješno proslijeđena.
+vm-msginstruct: Za slušanje sljedeće poruke pritisnite 6, za ponavljanje ove poruke pritisnite 5, za prethodnu poruku pritisnite 4, za brisanje ili poništavanje brisanja pritisnite nulu, za izlaz iz govorne pošte pritisnite tipku ljestve.
+vm-msgsaved: Vaša poruka je spremljena.
+vm-new: novih
+vm-newn: novo
+vm-newpassword: Molimo unesite novu lozinku, a zatim pritisnite tipku ljestve.
+vm-newuser: Dobrodošli u govornu poštu. Najprije ćemo Vas provesti kroz kratki postupak postavljanja.
+vm-newx: nove
+vm-next: Pritisnite 6 za reprodukciju sljedeće poruke.
+vm-no: ne
+vm-nobodyavail: Trenutno nitko ne može preuzeti Vaš poziv.
+vm-nobox: Ne možete odgovoriti na ovu poruku jer pošiljatelj nema poštanski sandučić.
+vm-nomore: Nema više poruka.
+vm-nonumber: Nažalost, ne znamo tko je poslao ovu poruku.
+vm-num-i-have: Zabilježeni broj je
+vm-old: starih
+vm-oldn: staro
+vm-oldx: stare
+vm-onefor: Pritisnite 1 za
+vm-onefor-full: Pritisnite 1 za slušanje...
+vm-options: Pritisnite 1 za snimanje poruke nedostupnosti, pritisnite 2 za snimanje poruke zauzetosti, pritisnite 3 za snimanje Vašeg imena, pritisnite 4 za snimanje privremenog pozdrava, pritisnite 5 za promjenu lozinke, pritisnite zvjezdicu za povratak u glavni izbornik.
+vm-opts: Pritisnite 2 za promjenu mape, pritisnite 3 za napredne opcije, pritisnite nulu za opcije sandučića.
+vm-opts-full: Pritisnite 2 za pristup porukama spremljenim u drugim mapama. Pritisnite 3 za snimanje poruke za drugi sandučić. Pritisnite 0 za upravljanje pozdravima i lozinkama.
+vm-passchanged: Vaša lozinka je promijenjena.
+vm-password: lozinka
+vm-pls-try-again: Molimo pokušajte ponovo.
+vm-press: Pritisnite
+vm-prev: Pritisnite 4 za prethodnu poruku.
+vm-reachoper: Pritisnite 0 za vezu s operatorom.
+vm-rec-busy: Nakon zvučnog signala izgovorite poruku zauzetosti, a zatim pritisnite tipku ljestve.
+vm-rec-name: Nakon zvučnog signala izgovorite svoje ime, a zatim pritisnite tipku ljestve.
+vm-rec-temp: Nakon zvučnog signala izgovorite Vašu privremenu poruku, a zatim pritisnite tipku ljestve.
+vm-rec-unv: Nakon zvučnog signala izgovorite poruku nedostupnosti, a zatim pritisnite tipku ljestve.
+vm-received: primljeno
+vm-record-prepend: Nakon zvučnog signala snimite uvod za proslijeđenu poruku. Kada završite, pritisnite tipku ljestve.
+vm-reenterpassword: Molimo ponovo unesite lozinku, a zatim pritisnite tipku ljestve.
+vm-repeat: Pritisnite 5 za ponavljanje trenutne poruke.
+vm-review: Pritisnite 1 za prihvaćanje snimke, pritisnite 2 za slušanje, pritisnite 3 za ponovno snimanje.
+vm-review-nonurgent: Pritisnite 4 za uklanjanje oznake hitnosti s ove poruke.
+vm-review-urgent: Pritisnite 4 za označavanje ove poruke kao hitne.
+vm-saved: Spremljeno.
+vm-savedto: Spremljeno u
+vm-savefolder: U koju mapu želite spremiti poruku?
+vm-savemessage: ili 9 za spremanje ove poruke.
+vm-saveoper: Pritisnite 1 za prihvaćanje ove snimke, u suprotnom ostanite na liniji.
+vm-sorry: Žao nam je, nismo razumjeli Vaš odgovor.
+vm-star-cancel: Pritisnite zvjezdicu za odustajanje.
+vm-starmain: Pritisnite zvjezdicu za povratak u glavni izbornik.
+vm-tempgreetactive: Vaš privremeni pozdrav je trenutno aktivan.
+vm-tempgreeting: Pritisnite 1 za snimanje privremenog pozdrava.
+vm-tempgreeting2: Pritisnite 1 za snimanje privremenog pozdrava ili pritisnite 2 za brisanje privremenog pozdrava.
+vm-tempremoved: Vaš privremeni pozdrav je uklonjen.
+vm-then-pound: a zatim pritisnite tipku ljestve.
+vm-theperson: Osoba na lokalnom broju
+vm-tmpexists: Postoji privremeni pozdrav koji zamjenjuje Vaše standardne pozdrave.
+vm-tocallback: Pritisnite 2 za pozivanje osobe koja je poslala ovu poruku.
+vm-tocallnum: Pritisnite 1 za pozivanje ovog broja.
+vm-tocancel: ili tipku ljestve za odustajanje.
+vm-tocancelmsg: Pritisnite zvjezdicu za poništavanje ove poruke.
+vm-toenternumber: Pritisnite 1 za unos broja.
+vm-toforward: Pritisnite 8 za prosljeđivanje poruke drugom korisniku.
+vm-tohearenv: Pritisnite 3 za slušanje podataka o poruci.
+vm-tomakecall: Pritisnite 4 za upućivanje odlaznog poziva.
+vm-tooshort: Vaša poruka je prekratka.
+vm-toreply: Pritisnite 1 za slanje odgovora.
+vm-torerecord: Pritisnite 3 za ponovno snimanje poruke.
+vm-undelete: Pritisnite 7 za poništavanje brisanja ove poruke.
+vm-undeleted: Brisanje poruke poništeno.
+vm-unknown-caller: od nepoznatog pozivatelja.
+vm-whichbox: Za ostavljanje poruke, molimo unesite broj sandučića.
+vm-youhave: Imate
+with: s
+you-entered: Unijeli ste.
+your: Vaš.
